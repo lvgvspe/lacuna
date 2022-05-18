@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\repos\lacuna\GeneLacuna\GeneLacuna\bin\Release\net6.0\GeneLacuna.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\repos\lacuna\GeneLacuna\GeneLacuna\bin\Release\net6.0\GeneLacuna.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\repos\lacuna\GeneLacuna\GeneLacuna\bin\Release\net6.0\GeneLacuna.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\repos\lacuna\GeneLacuna\GeneLacuna\bin\Release\net6.0\GeneLacuna.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\repos\lacuna\GeneLacuna\GeneLacuna\bin\Release\net6.0\GeneLacuna.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\repos\lacuna\GeneLacuna\GeneLacuna\obj\Release\net6.0\GeneLacuna.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\repos\lacuna\GeneLacuna\GeneLacuna\obj\Release\net6.0\GeneLacuna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\repos\lacuna\GeneLacuna\GeneLacuna\obj\Release\net6.0\GeneLacuna.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\repos\lacuna\GeneLacuna\GeneLacuna\obj\Release\net6.0\GeneLacuna.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\repos\lacuna\GeneLacuna\GeneLacuna\obj\Release\net6.0\GeneLacuna.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\repos\lacuna\GeneLacuna\GeneLacuna\obj\Release\net6.0\GeneLacuna.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\repos\lacuna\GeneLacuna\GeneLacuna\obj\Release\net6.0\refint\GeneLacuna.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\repos\lacuna\GeneLacuna\GeneLacuna\obj\Release\net6.0\GeneLacuna.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\repos\lacuna\GeneLacuna\GeneLacuna\obj\Release\net6.0\GeneLacuna.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\repos\lacuna\GeneLacuna\GeneLacuna\obj\Release\net6.0\ref\GeneLacuna.dll

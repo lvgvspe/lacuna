@@ -1,0 +1,5 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\GeneLacuna.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\GeneLacuna.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\GeneLacuna.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\GeneLacuna.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\GeneLacuna.pdb
